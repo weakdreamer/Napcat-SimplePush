@@ -1,0 +1,13 @@
+{
+  "name": "napcat-plugin-simplepush",
+  "version": "1.5.0",
+  "description": "NapCat 群聊消息推送插件 - 支持HTTP API和群内命令推送",
+  "main": "index.mjs",
+  "author": "weakdreamer",
+  "license": "MIT",
+  "keywords": ["napcat", "qq", "bot", "plugin", "push", "notification"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weakdreamer/Napcat-SimplePush.git"
+  }
+}
