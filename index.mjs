@@ -1,8 +1,9 @@
 /**
  * NapCat SimplePush Plugin v1.5.0
- * 群聊消息推送插件 - 支持HTTP API和群内命令推送
+ * A lightweight QQ group message push plugin with HTTP API and in-group command support
  * 
  * GitHub: https://github.com/weakdreamer/Napcat-SimplePush
+ * Author: weakdreamer
  */
 
 import fs from 'fs';
