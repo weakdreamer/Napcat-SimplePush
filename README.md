@@ -1,6 +1,6 @@
 # NapCat SimplePush Plugin
 
-NapCat 群聊消息推送插件 - 简单、可靠的消息推送解决方案
+NapCat 群聊消息推送插件 - 简单、可靠、轻量的消息推送解决方案
 
 ## 功能特性
 
